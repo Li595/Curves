@@ -1,0 +1,3 @@
+﻿  curves.cpp
+C:\Users\Leonid\C+_+\Curves\curves.cpp(75,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Curves.vcxproj -> C:\Users\Leonid\C+_+\Curves\x64\Debug\Curves.exe
